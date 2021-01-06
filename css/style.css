@@ -1,0 +1,45 @@
+.body {
+    background-color: #222222;
+}
+.cardTitle {
+    color: #DDDDDD;
+    font-size: 70px;
+    font-family: "copperplate";
+    padding:1px;
+    margin:35px 40px;
+    text-align: center;
+}
+.pStyle {
+    color: #DDDDDD;
+    font-size: 32px;
+    font-family: "Roboto";
+    padding: 1px;
+    margin: 100px;
+    text-align:justify;
+}
+.navigation {
+    background-color: #222222;
+    display: block;
+    height: 128px;
+    margin: 0px;
+}
+.navButton1 {
+    background-color: #222222;
+    height: 71px;
+    width: 71px;
+    border: none;
+    padding: 20px;
+    display: inline-block;
+}
+.hfButton {
+    background-color: #222222;
+    height: 128px;
+    width: 313px;
+    color: #DDDDDD;
+    font-size: 40px;
+    font-family: "copperplate";
+    border: none;
+    padding: 0px;
+    float: right;
+    text-align: center;
+}
